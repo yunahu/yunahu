@@ -1,5 +1,8 @@
 ## Hi, I'm Yuna. 👋 
 
+### 💼 Currently
+Software Developer at HermontTire. My day-to-day work lives in private repositories on my work account: [@yunahu-hermont](https://github.com/yunahu-hermont).
+
 ### 📌 Link to my portfolio
 You can find my latest projects at [https://yunahu.dev](https://yunahu.dev).
 
